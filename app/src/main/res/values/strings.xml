@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Text Editor</string>
+
+    <string name="save">Save</string>
+    <string name="myFiles">My files</string>
+
+    <string name="read">Read</string>
+    <string name="delete">Delete</string>
+    <string name="download">Download</string>
+
+    <string name="noTextFile">No text file</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="fileNameHint">File name</string>
+
+    <string name="nameNotValid">ERROR: Name not valid</string>
+
+    <string name="fileDownloaded">The file has been downloaded</string>
+    <string name="fileDownloaded2">The file has been placed in the download folder</string>
+
+    <string name="areYouSure">Are you sure?</string>
+
+    <string name="emptyText">ERROR: Empty text</string>
+
+    <string name="warning">WARNING: Be careful to insert the right extension, otherwise the file will be unreadable</string>
+
+    <string name="updateFile">The changes have been saved</string>
+
+    <string name="fileAlreadyExists">ERROR: File already exists</string>
+
+    <string name="externalFile">External file</string>
+
+    <string name="newFile">New</string>
+
+    <string name="fontSize">Font size</string>
+
+    <string name="example">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="defaultString">Default</string>
+
+    <string name="fontSaved">The font has been saved</string>
+</resources>

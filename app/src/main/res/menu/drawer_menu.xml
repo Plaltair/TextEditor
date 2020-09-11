@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_new"
+            android:icon="@drawable/new_icon"
+            android:title="@string/newFile" />
+        <item
+            android:id="@+id/action_my_files"
+            android:icon="@drawable/open_icon"
+            android:title="@string/myFiles" />
+        <item
+            android:id="@+id/action_open"
+            android:icon="@drawable/external_file_icon"
+            android:title="@string/externalFile" />
+        <item
+            android:id="@+id/action_font_size"
+            android:icon="@drawable/font_icon"
+            android:title="@string/fontSize" />
+    </group>
+</menu>
